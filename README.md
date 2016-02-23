@@ -11,6 +11,8 @@ This repository contains **Dockerfile** of [Haproxy](http://haproxy.1wt.eu/) for
 
 ### Installation
 
+
+
 1. Install [Docker](https://www.docker.com/).
 
 2. Download [automated build](https://registry.hub.docker.com/u/dockerfile/haproxy/) from public [Docker Hub Registry](https://registry.hub.docker.com/): `docker pull dockerfile/haproxy`
